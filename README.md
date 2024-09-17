@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://github.com/drewmarsh/azure-creating-VM">
+    <img src="/images/azure-vm-banner.png" width="700" height="200" alt="Banner">
+  </a>
+</p>
+<br>
+
 Navigate to the Azure Portal and sign in (create an account and start a subscription if needed).
 
 Click the menu button (**&#8801;**) in the top left to reveal the side panel. Then, click ```Create a resource```.
