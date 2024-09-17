@@ -59,8 +59,9 @@ Under the **Virtual machine** option, click ```Create```.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tick the ```Enable auto-shutdown``` checkbox and configure the settings as desired.
 
 <br>
+
 Click the ```Review + Create``` button at the bottom of the page. Verify that validation has passed. Lastly, click ```Create```.
 
 On Windows, simply connect to your newly created VM by using Remote Desktop Protocol (RDP) and entering the public IPv4 address. 
 
-If you are a Mac user then you will have to download Microsoft Remote Desktop. 
+If you are a Mac user then you will have to download Microsoft Remote Desktop.
