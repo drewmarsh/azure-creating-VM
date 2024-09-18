@@ -85,7 +85,7 @@ Under the **Virtual machine** option, click ```Create```.
 <br> Click the ```Review + Create``` button at the bottom of the page. Verify that validation has passed. Lastly, click ```Create```.
 
 # 🖥️ Accessing the Virtual Machine Remotely
-On the Azure Portal homepage, navigate to the ```Azure services``` section and click ```Virtual machines```. Click on the virtual machine name in question. Then, click &#9654;```Start``` on the toolbar.
+On the Azure Portal homepage, navigate to the ```Azure services``` section and click ```Virtual machines```. Click on the virtual machine name in question. Then, click the &#9654;```Start``` button on the toolbar.
 
 On Windows, simply connect to your newly created VM by using Remote Desktop Protocol (RDP) and entering the public IPv4 address. 
 
