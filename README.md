@@ -101,7 +101,7 @@ Enter the username and password that was set up earlier during the creation of t
 
 <img src="/images/enter-credentials.png" width="486" alt="Enter credentials"> 
 
-If there is a n error validating the remote computer's certificate, this can be dismisssed by pressing ```Yes```.
+If there is an error validating the remote computer's certificate, this can be dismisssed by pressing ```Yes```.
 
 <img src="/images/connect-despite-errors.png" width="486" alt="Connect despite errors">
 
