@@ -79,10 +79,10 @@ Under the **Virtual machine** option, click ```Create```.
 > **Auto-shutdown**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tick the ```Enable auto-shutdown``` checkbox and configure the settings as desired.
-<br><br><br>
-Click the ```Review + Create``` button at the bottom of the page. Verify that validation has passed. Lastly, click ```Create```.
 
 <img src="/images/management-tab.png" width="797" height="248" alt="Management tab"> <br>
+
+<br> Click the ```Review + Create``` button at the bottom of the page. Verify that validation has passed. Lastly, click ```Create```.
 
 # 🖥️ Accessing the Virtual Machine Remotely
 On the Azure Portal homepage, navigate to the ```Azure services``` section and click ```Virtual machines```. Click on the virtual machine name in question. Then, click &#9654;```Start``` on the toolbar.
@@ -95,7 +95,7 @@ On Mac, downloading Microsoft Remote Desktop is a prerequisite.
 # ❌ Deleting the Virtual Machine
 Under the ```Virtual machines``` section of Azure, tick the checkbox next to the virtual machine you want to delete. Then, click the &#128465;```Delete``` button in the toolbar in the top right off the webpage.
 
-<img src="/images/delete-vm-1.png" width="1505" height="321" alt="Delete VM 1"> <br>
+<img src="/images/delete-vm-1.png" width="1000" height="213" alt="Delete VM 1"> <br>
 
 A side panel will open up on the right of the webpage. You must tick the ```Apply force delete for selected virtual machines and Virtual machine scale sets``` checkbox. Then, type ```delete``` into the text field. Lastly, click the red ```Delete``` button.
 
