@@ -87,24 +87,34 @@ Under the **Virtual machine** section, click ```Create```.
 # 🖥️ Accessing the Virtual Machine Remotely
 On the Azure Portal homepage, navigate to the **Azure services** section and click ```Virtual machines```. Click on the virtual machine name in question. Then, click the &#9654;```Start``` button on the toolbar.
 
-On Windows, simply connect to your newly created VM by using Remote Desktop Protocol (RDP) and entering the public IPv4 address. 
+On Windows:
+
+Press ```Win+R```, type in ```mstsc``` and  then click ```OK``` to open the Remote Desktop Connection window.
 
 <img src="/images/run-rdp.png" width="486" alt="Run RDP"> 
 
+In the **Computer:** field, enter the public IPv4 address of the virtual machine.
+
 <img src="/images/enter-ip.png" width="486" alt="Enter IP"> 
+
+Enter the username and password that was set up earlier during the creation of the Azure virtual machine.
 
 <img src="/images/enter-credentials.png" width="486" alt="Enter credentials"> 
 
+If there is a n error validating the remote computer's certificate, this can be dismisssed by pressing ```Yes```.
+
 <img src="/images/connect-despite-errors.png" width="486" alt="Connect despite errors">
+
+Connect to the virtual machine and wait for the login process to complete.
 
 <img src="/images/connection-successful.jpg" width="486" alt="Connection successful"> <br>
 
-On Mac, downloading [Microsoft Remote Desktop](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12) is a prerequisite.
+On Mac, download [Microsoft Remote Desktop](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12) to connect to the virtual machine.
 
-On Linux, downloading Remmina or a similar client is a prerequisite.
+On Linux, use Remmina or a similar client in substitution of Microsoft Remote Desktop.
 
 # ❌ Deleting the Virtual Machine
-Under the **Virtual machines** section of Azure, tick the checkbox next to the virtual machine you want to delete. Then, click the &#128465;```Delete``` button in the toolbar in the top right off the webpage.
+Under the **Virtual machines** section of Azure, tick the checkbox next to the virtual machine you want to delete. Then, click the &#128465;```Delete``` button in the toolbar on the top right off the webpage.
 
 <img src="/images/delete-vm-1.png" width="1000" alt="Delete VM 1"> <br>
 
