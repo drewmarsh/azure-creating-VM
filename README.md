@@ -99,4 +99,4 @@ Under the ```Virtual machines``` section of Azure, tick the checkbox next to the
 
 A side panel will open up on the right of the webpage. You must tick the ```Apply force delete for selected virtual machines and Virtual machine scale sets``` checkbox. Then, type ```delete``` into the text field. Lastly, click the red ```Delete``` button.
 
-<img src="/images/delete-vm-2.png" width="584" height="906" alt="Delete VM 2"> <br>
+<img src="/images/delete-vm-2.png" height="600" alt="Delete VM 2"> <br>
