@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/drewmarsh/azure-creating-VM">
-    <img src="/images/azure-vm-banner.png" width="700" height="200" alt="Banner">
+    <img src="/images/azure-vm-banner.png" width="700" alt="Banner">
   </a>
 </p>
 <br>
@@ -11,11 +11,11 @@ Navigate to the Azure Portal and sign in (create an account and start a subscrip
 
 Click the menu button (**&#8801;**) in the top left to reveal the side panel. Then, click ```Create a resource```.
 
-<img src="/images/create-a-resource.png" width="358" height="206" alt="Create a resource"> <br>
+<img src="/images/create-a-resource.png" width="358" alt="Create a resource"> <br>
 
 Under the **Virtual machine** option, click ```Create```.
 
-<img src="/images/create-virtual-machine.png" width="498" height="321" alt="Create virtual machine"> <br>
+<img src="/images/create-virtual-machine.png" width="498" alt="Create virtual machine"> <br>
 
 # ⚙️ Settings Configuration
 > [!NOTE]
@@ -66,21 +66,21 @@ Under the **Virtual machine** option, click ```Create```.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tick the ```I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights``` checkbox.
 
-<img src="/images/basics-tab.png" width="554" height="767" alt="Basics tab"> <br>
+<img src="/images/basics-tab.png" width="554" alt="Basics tab"> <br>
 
 ### Networking Tab
 > **Select inbound ports**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Select ```RDP (3389)```, ```HTTP (80)```, and ```HTTPS (443)```.
 
-<img src="/images/networking-tab.png" width="802" height="536" alt="Networking tab"> <br>
+<img src="/images/networking-tab.png" width="802" alt="Networking tab"> <br>
 
 ### Management Tab
 > **Auto-shutdown**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tick the ```Enable auto-shutdown``` checkbox and configure the settings as desired.
 
-<img src="/images/management-tab.png" width="797" height="248" alt="Management tab"> <br>
+<img src="/images/management-tab.png" width="797" alt="Management tab"> <br>
 
 <br> Click the ```Review + Create``` button at the bottom of the page. Verify that validation has passed. Lastly, click ```Create```.
 
@@ -95,8 +95,8 @@ On Mac, downloading Microsoft Remote Desktop is a prerequisite.
 # ❌ Deleting the Virtual Machine
 Under the ```Virtual machines``` section of Azure, tick the checkbox next to the virtual machine you want to delete. Then, click the &#128465;```Delete``` button in the toolbar in the top right off the webpage.
 
-<img src="/images/delete-vm-1.png" width="1000" height="213" alt="Delete VM 1"> <br>
+<img src="/images/delete-vm-1.png" width="1000" alt="Delete VM 1"> <br>
 
 A side panel will open up on the right of the webpage. You must tick the ```Apply force delete for selected virtual machines and Virtual machine scale sets``` checkbox. Then, type ```delete``` into the text field. Lastly, click the red ```Delete``` button.
 
-<img src="/images/delete-vm-2.png" height="600" alt="Delete VM 2"> <br>
+<img src="/images/delete-vm-2.png" width="468" alt="Delete VM 2"> <br>
