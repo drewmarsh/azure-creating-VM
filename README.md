@@ -30,9 +30,9 @@ Under the **Virtual machine** option, click ```Create```.
 
 > **Virtual machine name**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Enter ```osTicket-Win10Pro-VM```.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Enter ```osTicket-VM```.
 
-> **Region*
+> **Region**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Enter preferred region to host the VM.
 
