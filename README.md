@@ -48,15 +48,15 @@ Under the **Virtual machine** option, click ```Create```.
 
 > **Image**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Search for and select ```Windows 10 Pro, version 22H2 - x64```
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Search for and select ```Windows 10 Pro, version 22H2 - x64```.
 
 > **VM Architecture**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Select ```x64```
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Select ```x64```.
 
 > **Size**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Select ```Standard_B2ms - 2 vcpus, 8 GiB memory```
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Select ```Standard_B2ms - 2 vcpus, 8 GiB memory```.
 
 > **Username & Password**
 
