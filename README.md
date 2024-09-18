@@ -5,12 +5,17 @@
 </p>
 <br>
 
+# 🚀 Getting Started
+
 Navigate to the Azure Portal and sign in (create an account and start a subscription if needed).
 
 Click the menu button (**&#8801;**) in the top left to reveal the side panel. Then, click ```Create a resource```.
 
 Under the **Virtual machine** option, click ```Create```.
-<br><br>
+
+<br>
+
+# ⚙️ Settings Configuration
 > [!NOTE]
 > The configuration options below should be adjusted accordingly based on use case. For example, for a Windows 10 Pro VM that shuts down automatically and runs osTicket, the following settings would be used.
 
@@ -25,9 +30,9 @@ Under the **Virtual machine** option, click ```Create```.
 
 > **Virtual machine name**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Enter ```osTicket-Win10Pro-VM```.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Enter ```osTicket-VM```.
 
-> **Region*
+> **Region**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Enter preferred region to host the VM.
 
@@ -64,11 +69,14 @@ Under the **Virtual machine** option, click ```Create```.
 > **Auto-shutdown**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tick the ```Enable auto-shutdown``` checkbox and configure the settings as desired.
+<br><br><br>
+Click the ```Review + Create``` button at the bottom of the page. Verify that validation has passed. Lastly, click ```Create```.
 
 <br>
 
-Click the ```Review + Create``` button at the bottom of the page. Verify that validation has passed. Lastly, click ```Create```.
+# 🖥️ Accessing the Virtual Machine Remotely
+On the Azure Portal homepage, navigate to the ```Azure services``` section and click ```Virtual machines```. Click on the virtual machine name in question. Then, click &#9654;```Start``` on the toolbar.
 
 On Windows, simply connect to your newly created VM by using Remote Desktop Protocol (RDP) and entering the public IPv4 address. 
 
-If you are a Mac user then you will have to download Microsoft Remote Desktop.
+On Mac, downloading Microsoft Remote Desktop is a prerequisite.
