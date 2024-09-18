@@ -64,7 +64,7 @@ Under the **Virtual machine** option, click ```Create```.
 
 > **Licensing**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tick the ```I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights``` checkbox.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tick the &#9989;```I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights``` checkbox.
 
 <img src="/images/basics-tab.png" width="554" alt="Basics tab"> <br>
 
@@ -78,7 +78,7 @@ Under the **Virtual machine** option, click ```Create```.
 ### Management Tab
 > **Auto-shutdown**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tick the ```Enable auto-shutdown``` checkbox and configure the settings as desired.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tick the &#9989;```Enable auto-shutdown``` checkbox and configure the settings as desired.
 
 <img src="/images/management-tab.png" width="797" alt="Management tab"> <br>
 
@@ -97,6 +97,6 @@ Under the ```Virtual machines``` section of Azure, tick the checkbox next to the
 
 <img src="/images/delete-vm-1.png" width="1000" alt="Delete VM 1"> <br>
 
-A side panel will open up on the right of the webpage. You must tick the ```Apply force delete for selected virtual machines and Virtual machine scale sets``` checkbox. Then, type ```delete``` into the text field. Lastly, click the red ```Delete``` button.
+A side panel will open up on the right of the webpage. You must tick the &#9989;```Apply force delete for selected virtual machines and Virtual machine scale sets``` checkbox. Then, type ```delete``` into the text field. Lastly, click the red ```Delete``` button.
 
 <img src="/images/delete-vm-2.png" width="468" alt="Delete VM 2"> <br>
