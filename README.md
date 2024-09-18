@@ -13,7 +13,7 @@ Click the menu button (**&#8801;**) in the top left to reveal the side panel. Th
 
 <img src="/images/create-a-resource.png" width="358" alt="Create a resource"> <br>
 
-Under the **Virtual machine** option, click ```Create```.
+Under the **Virtual machine** section, click ```Create```.
 
 <img src="/images/create-virtual-machine.png" width="498" alt="Create virtual machine"> <br>
 
@@ -85,7 +85,7 @@ Under the **Virtual machine** option, click ```Create```.
 <br> Click the ```Review + Create``` button at the bottom of the page. Verify that validation has passed. Lastly, click ```Create```.
 
 # 🖥️ Accessing the Virtual Machine Remotely
-On the Azure Portal homepage, navigate to the ```Azure services``` section and click ```Virtual machines```. Click on the virtual machine name in question. Then, click the &#9654;```Start``` button on the toolbar.
+On the Azure Portal homepage, navigate to the **Azure services** section and click ```Virtual machines```. Click on the virtual machine name in question. Then, click the &#9654;```Start``` button on the toolbar.
 
 On Windows, simply connect to your newly created VM by using Remote Desktop Protocol (RDP) and entering the public IPv4 address. 
 
@@ -104,7 +104,7 @@ On Mac, downloading [Microsoft Remote Desktop](https://apps.apple.com/us/app/mic
 On Linux, downloading Remmina or a similar client is a prerequisite.
 
 # ❌ Deleting the Virtual Machine
-Under the ```Virtual machines``` section of Azure, tick the checkbox next to the virtual machine you want to delete. Then, click the &#128465;```Delete``` button in the toolbar in the top right off the webpage.
+Under the **Virtual machines** section of Azure, tick the checkbox next to the virtual machine you want to delete. Then, click the &#128465;```Delete``` button in the toolbar in the top right off the webpage.
 
 <img src="/images/delete-vm-1.png" width="1000" alt="Delete VM 1"> <br>
 
