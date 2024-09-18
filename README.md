@@ -72,7 +72,7 @@ Under the **Virtual machine** option, click ```Create```.
 
 <br>
 
-# 🖥️ Running the VM
+# 🖥️ Running the Virtual Machine
 
 Click the ```Review + Create``` button at the bottom of the page. Verify that validation has passed. Lastly, click ```Create```.
 
